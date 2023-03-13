@@ -1,7 +1,7 @@
 # Introduction to R Programming 1  
 ## Green Eggs and Ham  
 
-Axel Nohturfft
+Axel Nohturfft, 20-Jan-2022  
 
 To create a copy of this repository in RStudio follow these steps:
 
