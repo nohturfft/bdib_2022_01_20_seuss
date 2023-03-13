@@ -1,3 +1,8 @@
+# Introduction to R Programming 1  
+## Green Eggs and Ham  
+
+Axel Nohturfft
+
 To create a copy of this repository in RStudio follow these steps:
 
 1. Start RStudio
